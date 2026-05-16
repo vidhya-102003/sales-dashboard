@@ -13,7 +13,7 @@ A Sales Analytics Dashboard built with **React.js** and **Recharts**.
 - 🌙 Dark themed professional UI
 
 ## 📷 Screenshot
-![Dashboard Preview](screenshot/dashboard.png)
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## 🛠️ Tech Stack
 - React.js
